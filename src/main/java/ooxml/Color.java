@@ -1,3 +1,5 @@
+package ooxml;
+
 /**
  * represents a hexadecimal color code
  */

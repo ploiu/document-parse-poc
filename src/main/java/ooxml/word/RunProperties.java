@@ -1,10 +1,11 @@
+package ooxml.word;
+
 import lombok.AccessLevel;
 import lombok.Builder;
 import lombok.Data;
 import lombok.Setter;
+import ooxml.*;
 import org.jetbrains.annotations.Nullable;
-
-import java.util.Optional;
 
 @Data
 @Builder

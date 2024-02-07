@@ -1,4 +1,8 @@
+package ooxml.word;
+
 import lombok.*;
+import ooxml.Color;
+import ooxml.Justify;
 
 
 @Data
@@ -7,4 +11,5 @@ import lombok.*;
 public class ParagraphProperties {
     private Justify alignment;
     private Color background;
+    private String styleType;
 }
